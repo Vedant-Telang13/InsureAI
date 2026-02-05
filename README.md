@@ -1,6 +1,6 @@
-# InsurAI: Corporate Policy Automation and Intelligence System
+# InsureAI: Corporate Policy Automation and Intelligence System
 
-**InsurAI** is an intelligent system designed to automate, manage, and optimize corporate insurance policies. Leveraging Java, Spring Boot, Angular, and MySQL, InsurAI simplifies insurance workflows, enhances decision-making, and provides actionable insights for corporate insurance management.  
+**InsureAI** is an intelligent system designed to automate, manage, and optimize corporate insurance policies. Leveraging Java, Spring Boot, Angular, MySQL, and IntelliJ IDEA, InsureAI simplifies insurance workflows, enhances decision-making, and provides actionable insights for corporate insurance management.  
 
 ---
 
@@ -30,11 +30,34 @@
 | Backend | Java, Spring Boot |
 | Frontend | Angular, HTML, CSS, TypeScript |
 | Database | MySQL |
-| Build Tools | Maven, Node.js, NPM |
+| IDE | IntelliJ IDEA |
+| Build Tools | Maven |
 | Version Control | GitHub |
 
 ---
 
+## 🔹 Tools
+
+- **GitHub** – Version control and repository management  
+- **IntelliJ IDEA** – Backend development and project management  
+- **MySQL Workbench** – Database design, query execution, and management  
+
+---
+
 ## 🔹 Project Structure
+
+
+InsureAI/
+├── backend/ # Spring Boot backend APIs
+│ ├── src/main/java/com/insureai/
+│ └── application.properties
+├── frontend/ # Angular frontend application
+│ ├── src/app/components/
+│ │ ├── dashboard/
+│ │ ├── policy/
+│ │ └── claim/
+│ └── src/app/services/
+├── database/ # MySQL scripts for schema & sample data
+└── README.md
 
 
