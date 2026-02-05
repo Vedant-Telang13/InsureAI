@@ -36,14 +36,6 @@
 
 ---
 
-## 🔹 Tools
-
-- **GitHub** – Version control and repository management  
-- **IntelliJ IDEA** – Backend development and project management  
-- **MySQL Workbench** – Database design, query execution, and management  
-
----
-
 
 
 
