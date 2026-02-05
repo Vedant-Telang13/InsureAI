@@ -47,33 +47,7 @@
 
 
 
-## 🔹 Project Structure
 
-
-| Folder / File | Description |
-|---------------|-------------|
-| `.idea/` | IntelliJ IDEA project settings |
-| `.mvn/` | Maven wrapper files |
-| `src/` | Source code folder |
-| `src/main/` | Main application code |
-| `src/main/java/com/Infosys/InsureAl/` | Java packages for backend |
-| `src/main/java/com/Infosys/InsureAl/entity/` | Entity classes (e.g., User) |
-| `src/main/java/com/Infosys/InsureAl/enums/` | Enum classes |
-| `src/main/java/com/Infosys/InsureAl/InsureAiApplication.java` | Main Spring Boot application |
-| `src/main/resources/` | Application resources |
-| `src/main/resources/static/` | Static resources (CSS, JS, images) |
-| `src/main/resources/templates/` | HTML templates (Thymeleaf or similar) |
-| `src/main/resources/application.properties` | Spring Boot configuration file |
-| `src/test/` | Test classes |
-| `target/` | Compiled output folder (auto-generated) |
-| `.gitattributes` | Git attributes file |
-| `.gitignore` | Files/folders ignored by Git |
-| `HELP.md` | Project help/documentation |
-| `mvnw` | Maven wrapper script (Linux/macOS) |
-| `mvnw.cmd` | Maven wrapper script (Windows) |
-| `pom.xml` | Maven project configuration |
-| `External Libraries` | Libraries imported into the project |
-| `Scratches and Consoles` | IntelliJ scratch files and consoles |
 
 
 
