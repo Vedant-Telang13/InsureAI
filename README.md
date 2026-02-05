@@ -49,19 +49,31 @@
 
 ## 🔹 Project Structure
 
+
 | Folder / File | Description |
 |---------------|-------------|
-| `backend/` | Spring Boot backend APIs |
-| `backend/src/main/java/com/insureai/` | Java source code for backend |
-| `backend/application.properties` | Backend configuration (DB, server, etc.) |
-| `frontend/` | Angular frontend application |
-| `frontend/src/app/components/` | UI components for Angular |
-| `frontend/src/app/components/dashboard/` | Dashboard UI module |
-| `frontend/src/app/components/policy/` | Policy management UI module |
-| `frontend/src/app/components/claim/` | Claims management UI module |
-| `frontend/src/app/services/` | Angular services to call backend APIs |
-| `database/` | MySQL scripts for schema & sample data |
-| `README.md` | Project documentation |
+| `.idea/` | IntelliJ IDEA project settings |
+| `.mvn/` | Maven wrapper files |
+| `src/` | Source code folder |
+| `src/main/` | Main application code |
+| `src/main/java/com/Infosys/InsureAl/` | Java packages for backend |
+| `src/main/java/com/Infosys/InsureAl/entity/` | Entity classes (e.g., User) |
+| `src/main/java/com/Infosys/InsureAl/enums/` | Enum classes |
+| `src/main/java/com/Infosys/InsureAl/InsureAiApplication.java` | Main Spring Boot application |
+| `src/main/resources/` | Application resources |
+| `src/main/resources/static/` | Static resources (CSS, JS, images) |
+| `src/main/resources/templates/` | HTML templates (Thymeleaf or similar) |
+| `src/main/resources/application.properties` | Spring Boot configuration file |
+| `src/test/` | Test classes |
+| `target/` | Compiled output folder (auto-generated) |
+| `.gitattributes` | Git attributes file |
+| `.gitignore` | Files/folders ignored by Git |
+| `HELP.md` | Project help/documentation |
+| `mvnw` | Maven wrapper script (Linux/macOS) |
+| `mvnw.cmd` | Maven wrapper script (Windows) |
+| `pom.xml` | Maven project configuration |
+| `External Libraries` | Libraries imported into the project |
+| `Scratches and Consoles` | IntelliJ scratch files and consoles |
 
 
 
