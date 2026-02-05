@@ -47,17 +47,21 @@
 ## 🔹 Project Structure
 
 
-InsureAI/
-├── backend/ # Spring Boot backend APIs
-│ ├── src/main/java/com/insureai/
-│ └── application.properties
-├── frontend/ # Angular frontend application
-│ ├── src/app/components/
-│ │ ├── dashboard/
-│ │ ├── policy/
-│ │ └── claim/
-│ └── src/app/services/
-├── database/ # MySQL scripts for schema & sample data
-└── README.md
+## 🔹 Project Structure
+
+| Folder / File | Description |
+|---------------|-------------|
+| `backend/` | Spring Boot backend APIs |
+| `backend/src/main/java/com/insureai/` | Java source code for backend |
+| `backend/application.properties` | Backend configuration (DB, server, etc.) |
+| `frontend/` | Angular frontend application |
+| `frontend/src/app/components/` | UI components for Angular |
+| `frontend/src/app/components/dashboard/` | Dashboard UI module |
+| `frontend/src/app/components/policy/` | Policy management UI module |
+| `frontend/src/app/components/claim/` | Claims management UI module |
+| `frontend/src/app/services/` | Angular services to call backend APIs |
+| `database/` | MySQL scripts for schema & sample data |
+| `README.md` | Project documentation |
+
 
 
