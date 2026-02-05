@@ -4,6 +4,14 @@
 
 ---
 
+**Project Details:**  
+- **Start Date:** 2nd February  
+- **Duration:** 8 weeks  
+- **Internship:** Infosys Virtual Internship  
+- **Batch:** 6.0, Batch 13
+
+  ---
+
 ## 🔹 Features
 
 - **Policy Management:**  
