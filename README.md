@@ -1,86 +1,95 @@
-# 🏥 InsureAI - Smart Insurance Management Platform
+# 🤖 InsureAI - Corporate Policy Automation & Intelligence System
 
-**Project Initiated:** February 2nd, 2026  
+**Project Launch:** February 2nd, 2026  
 **Program:** Springboard Software Engineering Internship 6.0
 
 ---
 
-## 📖 About This Project
+## 📖 Project Overview
 
-InsureAI is a full-stack insurance management application being developed to streamline insurance operations. The platform will enable customers to browse and apply for insurance policies while providing administrators with tools to manage the entire policy lifecycle and process applications efficiently.
+InsureAI is an intelligent insurance automation platform designed to modernize corporate policy management. The system leverages enterprise technologies to automate insurance workflows, from policy creation and customer enrollment to intelligent application processing and administrative oversight.
 
-This project demonstrates enterprise-level application development using industry-standard technologies and follows modern software engineering practices including secure authentication, RESTful API design, and responsive user interfaces.
-
----
-
-## 🎯 Project Goals
-
-- Gain hands-on experience with enterprise Java development
-- Master full-stack application architecture
-- Implement secure authentication and authorization mechanisms
-- Design and consume RESTful web services
-- Build dynamic, responsive user interfaces with Angular
-- Work with relational database design and management
+Built as a comprehensive full-stack solution, this platform showcases modern software architecture patterns, secure data handling, and intuitive user experiences for both policyholders and insurance administrators.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Learning Objectives
 
-**Backend Development**
+- Build scalable enterprise applications using Java and Spring ecosystem
+- Design and implement RESTful microservices architecture  
+- Create dynamic single-page applications with Angular framework
+- Implement robust security layers with authentication and authorization
+- Model and manage complex relational data structures
+- Apply industry best practices in software development lifecycle
+
+---
+
+## 🛠️ Technology Stack
+
+**Backend Technologies**
 - Java 17
-- Spring Boot Framework
-- Spring Security
+- Spring Boot 3.x
+- Spring Security & JWT
 - Spring Data JPA
-- RESTful API Architecture
+- Maven Build Tool
 
-**Frontend Development**
-- Angular 17
+**Frontend Technologies**
+- Angular 17+
 - TypeScript
-- Node.js
-- HTML5 & CSS3
+- Node.js Runtime
+- Responsive CSS Framework
 
-**Database**
+**Database & Storage**
 - MySQL 8.0
+- JPA/Hibernate ORM
 
-**Development Tools**
-- IntelliJ IDEA
-- Visual Studio Code
-- Postman API Platform
-- Git & GitHub
+**Development Environment**
+- IntelliJ IDEA (Backend)
+- Visual Studio Code (Frontend)
+- Postman (API Testing)
+- Git Version Control
 - MySQL Workbench
 
 ---
 
-## 🏗️ Architecture
+## 🏛️ System Architecture
 
-The application follows a three-tier architecture:
-- **Presentation Layer:** Angular-based responsive UI
-- **Business Logic Layer:** Spring Boot REST APIs
-- **Data Layer:** MySQL relational database
-
----
-
-## 🔒 Security Implementation
-
-- Token-based authentication (JWT)
-- Role-based access control
-- Encrypted password storage
-- Secured API endpoints
+Multi-layered enterprise application design:
+- **Client Layer:** Angular SPA with component-based architecture
+- **API Layer:** Spring Boot RESTful services
+- **Business Layer:** Service-oriented business logic
+- **Persistence Layer:** JPA repositories with MySQL
 
 ---
 
-## ⏱️ Timeline
+## 🔐 Security Framework
 
-**Duration:** 8 Weeks  
-**Status:** In Development  
-**Internship:** Springboard 6.0
-
----
-
-## 📝 License
-
-This project is part of an educational internship program.
+- JWT token-based stateless authentication
+- Multi-role authorization (Customer, Administrator)
+- Password hashing with BCrypt
+- Protected API endpoints with Spring Security
+- CORS configuration for secure cross-origin requests
 
 ---
 
-**Developed with ☕ and 💻 as part of Springboard's intensive software engineering training**
+## ⏳ Development Timeline
+
+**Duration:** 8-Week Sprint  
+**Current Phase:** Initial Development  
+**Program:** Springboard Internship Cohort 6.0
+
+---
+
+## 📄 Project Status
+
+🚧 **Under Active Development** - Building core features and infrastructure
+
+---
+
+## 🙏 Acknowledgments
+
+Developed as part of Springboard's intensive full-stack engineering program, focusing on enterprise application development and modern software practices.
+
+---
+
+**Built with dedication and continuous learning 🚀**
