@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularDemo
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.2.
@@ -57,3 +58,58 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# InsureAI: Corporate Policy Automation and Intelligence System
+
+**InsureAI** is an intelligent system designed to automate, manage, and optimize corporate insurance policies. Leveraging Java, Spring Boot, Angular, MySQL, and IntelliJ IDEA, InsureAI simplifies insurance workflows, enhances decision-making, and provides actionable insights for corporate insurance management.  
+
+---
+
+**Project Details:**  
+- **Start Date:** 2nd February  
+- **Duration:** 8 weeks  
+- **Internship:** Infosys Virtual Internship  
+- **Batch:** 6.0, Batch 13
+
+  ---
+
+## 🔹 Features
+
+- **Policy Management:**  
+  Create, read, update, and delete corporate insurance policies with ease.  
+
+- **Claims Automation:**  
+  Automatically process and track insurance claims using rule-based logic.  
+
+- **Intelligent Analytics:**  
+  Generate insights from historical policy and claim data to support corporate decisions.  
+
+- **Dashboard:**  
+  Real-time visualization of policies, claims, and analytics using Angular frontend.  
+
+- **Secure User Management:**  
+  Role-based authentication and authorization for admins, managers, and employees.  
+
+---
+
+## 🔹 Technology Stack
+
+| Layer | Technology |
+|-------|------------|
+| Backend | Java, Spring Boot |
+| Frontend | Angular, HTML, CSS, TypeScript |
+| Database | MySQL |
+| IDE | IntelliJ IDEA |
+| Build Tools | Maven |
+| Version Control | GitHub |
+
+---
+
+
+
+
+
+
+
+
+>>>>>>> 9fdf654cdb1c4c416d00f0da90f7ff6bfdf2b46c
